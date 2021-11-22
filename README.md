@@ -8,4 +8,4 @@ Electricity theft detection is the main purpose of this project. Our training se
 #  Nitelikli Kaçak Tespiti 
 Makine Öğrenmesi kullanarak elektrik hırsızlığı tespiti 
 
-Nitelikli elektrik kaçakçılığı tespiti bu projenin nihai amacıdır. Eğitim setimiz 15.000 satırdan oluşmakla birlikte elektrik kullanımıyla alakalı sayaç bazlı çeşitli bilgiler bulumaktadır. Hedef değişken "NK_FLAG" tüketimin kaçak olup olmadığı bilgisini içeren kolondur ve 0'sa kaçak 1'se normal demektir. Eğitim setiyle bir model oluşturup 5.000 satırlık bir test setinin tahminlenmesi istenmiştir.
+Nitelikli elektrik kaçakçılığı tespiti bu projenin nihai amacıdır. Eğitim setimiz 15.000 satırdan oluşmakla birlikte elektrik kullanımıyla alakalı sayaç bazlı çeşitli bilgiler bulumaktadır. Hedef değişken "NK_FLAG" tüketimin kaçak olup olmadığı bilgisini içeren kolondur ve 0'sa normal 1'se kaçak tüketimi ifade etmektedir. Eğitim setiyle bir model oluşturup 5.000 satırlık bir test setinin tahminlenmesi istenmiştir.
